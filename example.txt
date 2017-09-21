@@ -8,3 +8,5 @@
 
 (3) Using Postman
 	http://localhost:8080/auto-web-project/services/orderrest?name=CARS&amount=16
+	
+	-- DONE --
