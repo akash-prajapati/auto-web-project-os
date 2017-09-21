@@ -1,6 +1,8 @@
 
 Steps are given over here.
 
+There are three options.
+
 (1) File based - XML 
 		D:\Files\target\placeorder
 			
@@ -9,4 +11,3 @@ Steps are given over here.
 
 (3) Using Postman
 	http://localhost:8080/auto-web-project/services/orderrest?name=CARS&amount=16
-
